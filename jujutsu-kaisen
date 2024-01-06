@@ -1,17 +1,32 @@
 {
-  "title": "Jujutsu Kaisen",
-  "description": "English translation from tcbscans",
-  "artist": "Gege Akutami",
-  "author": "Gege Akutami",
-  "cover": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/kaisentcb_1_01.jpg",
-  "chapters": {
-    "137": {
-      "title": "Chapter 137: Hard and White",
-      "volume": "16",
-      "groups": {
-        "tcbscans": "/proxy/api/imgur/chapter/46ba303/"
-      },
-      "last_updated": "1704572577"
+    "title": "Jujutsu Kaisen",
+    "description": "English translation from tcbscans",
+    "artist": "Gege Akutami",
+    "author": "Gege Akutami",
+    "cover": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/kaisentcb_1_01.jpg",
+    "chapters": {
+        "137": {
+            "title": "Hard and White",
+            "volume": "16",
+            "groups": {
+                "tcbscans": "/proxy/api/imgur/chapter/46ba303/"
+            },
+            "last_updated": "1704572577"
+        },
+        "138": {
+            "title": "The Zenin Clan",
+            "volume": "16",
+            "groups": {
+                "tcbscans": "/proxy/api/imgur/chapter/Z0k0bZm/"
+            },
+            "last_updated": "1704577928"
+        },
+        "139": {
+            "title": "Hunter",
+            "volume": "16",
+            "groups": {
+                "tcbscans": "/proxy/api/imgur/chapter/tZ0VPvX/"
+            },
+            "last_updated": "1704577961"
+        }
     }
-  }
-}
