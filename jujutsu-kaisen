@@ -221,7 +221,6 @@
             },
             "last_updated": "1704622185"
         },
-        
         "137": {
             "title": "Hard and White",
             "volume": "16",
@@ -245,6 +244,38 @@
                 "Lainina": "/proxy/api/imgur/chapter/tZ0VPvX/"
             },
             "last_updated": "1704577961"
+        },
+        "140": {
+            "title": "Execution",
+            "volume": "16",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/EmYDSKD/"
+            },
+            "last_updated": "1704625075"
+        },
+        "141": {
+            "title": "The Front of The Back",
+            "volume": "16",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/jsUQ1Iv/"
+            },
+            "last_updated": "1704626604"
+        },
+        "142": {
+            "title": "A Big Brother's Back",
+            "volume": "16",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/8edCZJ6/"
+            },
+            "last_updated": "1704628133"
+        },
+        "143": {
+            "title": "One More Time",
+            "volume": "17",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/mbxm58K/"
+            },
+            "last_updated": "1704629588"
         }
     }
 }
