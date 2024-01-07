@@ -5,11 +5,228 @@
     "author": "Gege Akutami",
     "cover": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/kaisentcb_1_01.jpg",
     "chapters": {
+        "110": {
+            "title": "The Shibuya Incident, Part 28",
+            "volume": "13",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/KodaEmU/"
+            },
+            "last_updated": "1704583151"
+        },
+        "111": {
+            "title": "The Shibuya Incident, Part 29",
+            "volume": "13",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/561dT2x/"
+            },
+            "last_updated": "1704584866"
+        },
+        "112": {
+            "title": "The Shibuya Incident, Part 30",
+            "volume": "13",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/nxcIJA7/"
+            },
+            "last_updated": "1704586422"
+        },
+        "113": {
+            "title": "The Shibuya Incident, Part 31",
+            "volume": "13",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/7kieTpN/"
+            },
+            "last_updated": "1704587903"
+        },
+        "114": {
+            "title": "The Shibuya Incident, Part 32",
+            "volume": "13",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/LjkjON7/"
+            },
+            "last_updated": "1704589383"
+        },
+        "115": {
+            "title": "The Shibuya Incident, Part 33",
+            "volume": "13",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/NtioblU/"
+            },
+            "last_updated": "1704590843"
+        },
+        "116": {
+            "title": "The Shibuya Incident, Part 34",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/AqRoIKl/"
+            },
+            "last_updated": "1704592242"
+        },
+        "117": {
+            "title": "The Shibuya Incident, Part 35",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/FLOcNgp/"
+            },
+            "last_updated": "1704593861"
+        },
+        "118": {
+            "title": "The Shibuya Incident, Part 36",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/L00mMbz/"
+            },
+            "last_updated": "1704595330"
+        },
+        "119": {
+            "title": "The Shibuya Incident, Part 37",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/7okCysS/"
+            },
+            "last_updated": "1704596570"
+        },
+        "120": {
+            "title": "The Shibuya Incident, Part 38",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/fyfH0x3/"
+            },
+            "last_updated": "1704598036"
+        },
+        "121": {
+            "title": "The Shibuya Incident, Part 39",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/2lFPooq/"
+            },
+            "last_updated": "1704599508"
+        },
+        "122": {
+            "title": "The Shibuya Incident, Part 40",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/3wiq5Z5/"
+            },
+            "last_updated": "1704601050"
+        },
+        "123": {
+            "title": "The Shibuya Incident, Part 41",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/tLbrjDB/"
+            },
+            "last_updated": "1704602815"
+        },
+        "124": {
+            "title": "The Shibuya Incident, Part 42",
+            "volume": "14",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/Kud0nbK/"
+            },
+            "last_updated": "1704604279"
+        },
+        "125": {
+            "title": "A Story About that Girl",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/KZ4GOxW/"
+            },
+            "last_updated": "1704605814"
+        },
+        "126": {
+            "title": "The Shibuya Incident, Part 43",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/i7U6pXO/"
+            },
+            "last_updated": "1704607201"
+        },
+        "127": {
+            "title": "The Shibuya Incident, Part 44",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/lXQjWRQ/"
+            },
+            "last_updated": "1704608896"
+        },
+        "128": {
+            "title": "The Shibuya Incident, Part 45",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/GKJkf1q/"
+            },
+            "last_updated": "1704610206"
+        },
+        "129": {
+            "title": "The Shibuya Incident, Part 46",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/0CmBjgL/"
+            },
+            "last_updated": "1704611750"
+        },
+        "130": {
+            "title": "The Shibuya Incident, Part 47",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/J11uHxx/"
+            },
+            "last_updated": "1704613203"
+        },
+        "131": {
+            "title": "The Shibuya Incident, Part 48",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/Bxp5yCO/"
+            },
+            "last_updated": "1704614815"
+        },
+        "132": {
+            "title": "The Shibuya Incident, Part 49",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/V4nc7N9/"
+            },
+            "last_updated": "1704616199"
+        },
+        "133": {
+            "title": "The Shibuya Incident, Part 50",
+            "volume": "15",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/hAlKJs5/"
+            },
+            "last_updated": "1704617740"
+        },
+        "134": {
+            "title": "The Shibuya Incident, Part 51",
+            "volume": "16",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/6LmFTog/"
+            },
+            "last_updated": "1704619274"
+        },
+        "135": {
+            "title": "The Shibuya Incident, Part 52",
+            "volume": "16",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/UaelAZf/"
+            },
+            "last_updated": "1704620654"
+        },
+        "136": {
+            "title": "The Shibuya Incident, Part 53",
+            "volume": "16",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/PfwqGOF/"
+            },
+            "last_updated": "1704622185"
+        },
+        
         "137": {
             "title": "Hard and White",
             "volume": "16",
             "groups": {
-                "tcbscans": "/proxy/api/imgur/chapter/46ba303/"
+                "Lainina": "/proxy/api/imgur/chapter/46ba303/"
             },
             "last_updated": "1704572577"
         },
@@ -17,7 +234,7 @@
             "title": "The Zenin Clan",
             "volume": "16",
             "groups": {
-                "tcbscans": "/proxy/api/imgur/chapter/Z0k0bZm/"
+                "Lainina": "/proxy/api/imgur/chapter/Z0k0bZm/"
             },
             "last_updated": "1704577928"
         },
@@ -25,7 +242,7 @@
             "title": "Hunter",
             "volume": "16",
             "groups": {
-                "tcbscans": "/proxy/api/imgur/chapter/tZ0VPvX/"
+                "Lainina": "/proxy/api/imgur/chapter/tZ0VPvX/"
             },
             "last_updated": "1704577961"
         }
