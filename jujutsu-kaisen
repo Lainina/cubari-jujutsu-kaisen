@@ -596,6 +596,62 @@
                 "Lainina": "/proxy/api/imgur/chapter/nN1XCj1/"
             },
             "last_updated": "1704723327"
+        },
+        "174": {
+            "title": "Sendai Colony, Part 1",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/Do2xQHO/"
+            },
+            "last_updated": "1704725094"
+        },
+        "175": {
+            "title": "Sendai Colony, Part 2",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/LJAJYrc/"
+            },
+            "last_updated": "1704726864"
+        },
+        "176": {
+            "title": "Sendai Colony, Part 3",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/lcv9qZj/"
+            },
+            "last_updated": "1704728485"
+        },
+        "177": {
+            "title": "Sendai Colony, Part 4",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/8HBzxMu/"
+            },
+            "last_updated": "1704730126"
+        },
+        "178": {
+            "title": "Sendai Colony, Part 5",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/F8tcgtS/"
+            },
+            "last_updated": "1704731822"
+        },
+        "179": {
+            "title": "Sendai Colony, Part 6",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/m6LFspe/"
+            },
+            "last_updated": "1704733224"
+        },
+        "180": {
+            "title": "Sendai Colony, Part 7",
+            "volume": "20",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/b97NviI/"
+            },
+            "last_updated": "1704734772"
         }
     }
 }
