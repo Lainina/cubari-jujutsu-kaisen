@@ -820,6 +820,78 @@
                 "Lainina": "/proxy/api/imgur/chapter/x1SsGzD/"
             },
             "last_updated": "1704794920"
+        },
+        "202": {
+            "title": "Blood and Oil",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/jfxROif/"
+            },
+            "last_updated": "1704796247"
+        },
+        "203": {
+            "title": "Blood and Oil, Part 2",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/HrFbdJ2/"
+            },
+            "last_updated": "1704797579"
+        },
+        "204": {
+            "title": "Blood and Oil, Part 3",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/OdJs3Uf/"
+            },
+            "last_updated": "1704798914"
+        },
+        "205": {
+            "title": "Stars and Oil",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/9geE3cK/"
+            },
+            "last_updated": "1704800464"
+        },
+        "206": {
+            "title": "Stars and Oil, Part 2",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/hQwv6oU/"
+            },
+            "last_updated": "1704801868"
+        },
+        "207": {
+            "title": "Stars and Oil, Part 3",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/u4vk307/"
+            },
+            "last_updated": "1704803272"
+        },
+        "208": {
+            "title": "Stars and Oil, Part 4",
+            "volume": "23",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/7vlks7S/"
+            },
+            "last_updated": "1704804685"
+        },
+        "209": {
+            "title": "Offering to the Unknown",
+            "volume": "24",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/iRej6ed/"
+            },
+            "last_updated": "1704806093"
+        },
+        "210": {
+            "title": "Offering to the Unknown, Part 2",
+            "volume": "24",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/BCGYioJ/"
+            },
+            "last_updated": "1704807500"
         }
     }
 }
