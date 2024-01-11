@@ -1,0 +1,17 @@
+{
+    "title": "Jujutsu Kaisen (RUS)",
+    "description": "Русский перевод от City of Chains и Aizen522",
+    "artist": "Gege Akutami",
+    "author": "Gege Akutami",
+    "cover": "https://cdn.onepiecechapters.com/file/CDN-M-A-N/kaisentcb_1_01.jpg",
+    "chapters": {
+        "150": {
+            "title": "Perfect Preparation, Part 3",
+            "volume": "17",
+            "groups": {
+                "Lainina": "/proxy/api/imgur/chapter/QIlWFEE/"
+            },
+            "last_updated": "1705003784"
+        }
+    }
+}
